@@ -10,3 +10,5 @@ speechrecognition
 pyaudio
 edge-tts
 sounddevice
+aaa
+
