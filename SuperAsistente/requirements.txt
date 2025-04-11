@@ -1,0 +1,12 @@
+llama-cpp-python
+edge-tts
+sounddevice
+numpy
+whispercpp
+webrtcvad
+playsound
+
+speechrecognition
+pyaudio
+edge-tts
+sounddevice
