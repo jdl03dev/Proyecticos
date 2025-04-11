@@ -3,3 +3,8 @@ Dockerfile
 docker-compose.yml
 docker-compose.override.yml
 .dockerignore
+
+.venv/
+venv/
+env/
+ENV/
